@@ -1,0 +1,8 @@
+{"message":"::1 - - [25/Dec/2019:06:45:30 +0000] \"DELETE /task HTTP/1.1\" 200 171 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:45 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:46 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:47 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:47 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:48 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:49 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}
+{"message":"::1 - - [25/Dec/2019:06:45:50 +0000] \"POST /task HTTP/1.1\" 200 301 \"-\" \"PostmanRuntime/7.21.0\"\n","level":"info"}

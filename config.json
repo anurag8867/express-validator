@@ -1,0 +1,9 @@
+{
+  "server": {
+    "PORT": 3500
+  },
+  "databaseName" : "Db",
+  "collectionName" : {
+    "tasks": "tasks"
+  }
+}
